@@ -170,3 +170,16 @@ See all commands at
 
 :
 ```
+```
+Temporary Netlify deployment (would maybe migrate to VPS deployment later, search above for "vps"
+
+    {
+        https://app.netlify.com/teams/nonlin-lin-chaos-order-etc-etal/overview
+        Tranoo_team
+        netlify.com  signup via Github nonlin-lin-chaos-order-etc-etal
+        hypnosis.i2p@gmail.com Owner
+        tranoo.com
+        https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/deploying-to-netlify/
+        https://www.gatsbyjs.com/docs/quick-start/
+    }
+```
