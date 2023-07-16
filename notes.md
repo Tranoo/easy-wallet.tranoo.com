@@ -77,3 +77,6 @@ npm notice Changelog: https://github.com/npm/cli/releases/tag/v9.8.0
 npm notice Run npm install -g npm@9.8.0 to update!
 npm notice 
 ```
+```
+: npm install -g npm@9.8.0
+```
