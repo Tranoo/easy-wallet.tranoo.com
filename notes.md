@@ -80,3 +80,93 @@ npm notice
 ```
 : npm install -g npm@9.8.0
 ```
+```
+: npm init gatsby
+Need to install the following packages:
+  create-gatsby@3.11.0
+Ok to proceed? (y) 
+create-gatsby version 3.11.0
+
+
+
+                                                                                                 Welcome to Gatsby!
+
+
+
+This command will generate a new Gatsby site for you in /zsata/vcs/easy-wallet.tranoo.com with the setup you select. Let's answer some questions:
+
+
+What would you like to call your site?
+✔ · Easy Wallet by Tranoo.com
+What would you like to name the folder where your site will be created?
+✔ easy-wallet.tranoo.com/ ewsite
+✔ Will you be using JavaScript or TypeScript?
+· TypeScript
+✔ Will you be using a CMS?
+· No (or I'll add it later)
+✔ Would you like to install a styling system?
+· No (or I'll add it later)
+✔ Would you like to install additional features with other plugins?
+· Add the Google gtag script for e.g. Google Analytics
+· Add responsive images
+· Add an automatic sitemap
+· Generate a manifest file
+· Add Markdown support (without MDX)
+
+
+Thanks! Here's what we'll now do:
+
+    🛠  Create a new Gatsby site in the folder ewsite
+    🔌 Install gatsby-plugin-google-gtag, gatsby-plugin-image, gatsby-plugin-sitemap, gatsby-plugin-manifest, gatsby-transformer-remark
+  
+✔ Shall we do this? (Y/n) · Yes
+✔ Created site from template
+✔ Installed Gatsby
+✔ Installed plugins
+✔ Created site in ewsite
+🔌 Setting-up plugins...
+info Adding gatsby-plugin-google-gtag
+info Adding gatsby-plugin-image
+info Adding gatsby-plugin-sitemap
+info Adding gatsby-plugin-manifest
+info Adding gatsby-transformer-remark
+info Adding gatsby-plugin-sharp
+info Adding gatsby-transformer-sharp
+info Adding gatsby-source-filesystem
+info Adding gatsby-source-filesystem
+info Installed gatsby-plugin-google-gtag in gatsby-config
+success Adding gatsby-plugin-google-gtag to gatsby-config - 0.254s
+info Installed gatsby-plugin-image in gatsby-config
+success Adding gatsby-plugin-image to gatsby-config - 0.237s
+info Installed gatsby-plugin-sitemap in gatsby-config
+success Adding gatsby-plugin-sitemap to gatsby-config - 0.243s
+info Installed gatsby-plugin-manifest in gatsby-config
+success Adding gatsby-plugin-manifest to gatsby-config - 0.267s
+info Installed gatsby-transformer-remark in gatsby-config
+success Adding gatsby-transformer-remark to gatsby-config - 0.276s
+info Installed gatsby-plugin-sharp in gatsby-config
+success Adding gatsby-plugin-sharp to gatsby-config - 0.287s
+info Installed gatsby-transformer-sharp in gatsby-config
+success Adding gatsby-transformer-sharp to gatsby-config - 0.294s
+info Installed gatsby-source-filesystem in gatsby-config
+success Adding gatsby-source-filesystem (images) to gatsby-config - 0.300s
+info Installed gatsby-source-filesystem in gatsby-config
+success Adding gatsby-source-filesystem (pages) to gatsby-config - 0.302s
+🎉  Your new Gatsby site Easy Wallet by Tranoo.com has been successfully created
+at /zsata/vcs/easy-wallet.tranoo.com/ewsite.
+Start by going to the directory with
+
+  cd ewsite
+
+Start the local development server with
+
+  npm run develop
+
+See all commands at
+
+  https://www.gatsbyjs.com/docs/reference/gatsby-cli/
+
+
+
+:
+```
